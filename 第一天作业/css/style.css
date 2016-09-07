@@ -1,0 +1,40 @@
+.touxiang{
+
+  width: 200px;
+  height: 250px;
+}
+section{
+height: 500px;
+border-style: solid;
+border-width: 2px;
+border-color: #eeeeee;
+margin: 5px 5px;
+}
+
+a{
+  color: cyan;
+  text-decoration:none;
+}
+/*section home{
+margin: 10px 10px;
+height: 2000px;
+
+}*/
+
+nav{
+  display:inline-block;
+  background-color: red;
+  height: 30px;
+  line-height: 30px;
+  width: 100%;
+  font-size: 14px;
+}
+section img{
+  /*设置宽度为100%*/
+
+    height:250px;
+    /*设置图片元素之间有一个间距*/
+
+    margin-top:1px;
+
+}
